@@ -2,7 +2,7 @@
 
 - 🎓 **Estudante de Ciência da Computação**
 - 💻 **Foco atual:** Desenvolvimento Frontend e aprendendo novas tecnologias Web.
-- 🚀 **Projetos:** Atualmente trabalhando desenvolvimento web e aprendendo teclonogias frontend.
+
 
 
 ---
