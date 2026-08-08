@@ -1,7 +1,7 @@
 # 👋 Olá! Eu sou Téo Costa.
 
-- 🎓 **Estudante de Ciência da Computação**
-- 💻 **Foco atual:** Desenvolvimento Frontend e aprendendo novas tecnologias Web.
+- 🎓 **Estudante de Ciência da Computação do sétimo Semestre**
+- 💻 **Foco atual:** Desenvolvimento backntend e aprendendo novas tecnologias Web.
 
 
 
